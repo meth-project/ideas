@@ -1,5 +1,5 @@
 ```
-Idea: Title of your idea
+Idea: Title of your idea (ensure this is in Issue title too)
 Author: Your name <youremail@domain.com>
 ```
 
